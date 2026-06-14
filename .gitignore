@@ -1,0 +1,6 @@
+.DS_Store
+.codex-local-context.md
+*.tar.gz
+generated_images/
+output/
+tmp/

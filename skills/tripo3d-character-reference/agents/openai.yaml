@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tripo3D Character Reference"
+  short_description: "Prompt pack for mesh-ready character refs"
+  default_prompt: "Use $tripo3d-character-reference to turn my uploaded character image into Tripo3D-ready reference prompts."

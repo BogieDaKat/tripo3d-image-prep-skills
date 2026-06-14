@@ -1,0 +1,4 @@
+interface:
+  display_name: "Heroic Mini Mesh Reference"
+  short_description: "Heroic-scale mini and terrain mesh prompts"
+  default_prompt: "Use $heroic-mini-mesh-reference to create depth-map prompts for a heroic-scale tabletop mini or terrain mesh from my reference image."
